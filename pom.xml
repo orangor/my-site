@@ -154,6 +154,7 @@
 		</dependency>
 
 		<!-- 七牛云对象存储 -->
+		<!--
 		<dependency>
 			<groupId>com.qiniu</groupId>
 			<artifactId>qiniu-java-sdk</artifactId>
@@ -164,7 +165,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-
+-->
     </dependencies>
 
 	<build>
